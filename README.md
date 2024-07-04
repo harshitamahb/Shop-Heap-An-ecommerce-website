@@ -24,7 +24,7 @@ Database: MongoDB
 Other Tools: Bootstrap, GitHub, VS Code
 Installation
 
-Clone the repository:
+Clone the repository:https://github.com/harshitamahb/Shop-Heap--an-e-commerce-website.git
 
 bash
 Copy code
